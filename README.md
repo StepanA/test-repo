@@ -4,3 +4,5 @@
 #### Четвертого
 Just some text
 
+*First item
+*Second item
